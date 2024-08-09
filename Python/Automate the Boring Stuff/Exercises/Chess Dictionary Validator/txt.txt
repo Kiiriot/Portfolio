@@ -17,5 +17,3 @@ Done. Available spaces in chess board are from a1 (bottom left) to h8 (top right
 Done. if function can't recognize the chess board, it must say it.
 
 --------------------------------------------------------------------------------------------------------------------------------
-
-Nah I'd Win. Maybe define 2 different fucntions?
