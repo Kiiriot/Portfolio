@@ -8,4 +8,4 @@ Generate a list of random H or T
 Part 2 of code:
 Checks if there is a streak
 
-Hint: randint(0, 1) will return 50% of the time 0 and the other 50% of the time 1
+! randint(0, 1) will return 50% of the time 0 and the other 50% of the time 1 !
